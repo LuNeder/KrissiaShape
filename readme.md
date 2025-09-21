@@ -49,10 +49,11 @@ Exporting and loading the STL on Cura, we can see it's indeed on our expected si
 ![Screenshot of Cura with the sliced shape, measuring exactly 100mm in length, 75mm in height and 60mm of depth](.images/cura.png)
 
 
-After around 4 and a half hours, here's our final result!
+After some hours, here's our final result!
 
-<TODO: ADD PICS WHEN READY> 
+![Photo of the ready shape, 3D printed in fluorescent blue PLA, still attached to the 3D printer](.images/final1.jpg)
 
+![Photo of the ready shape, 3D printed in fluorescent blue PLA](.images/final2.jpg)
 Thanks for reading, and let's hope no shapes as weird as this one show up on the tests!
 
 ## Extra
